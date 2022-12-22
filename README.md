@@ -1,5 +1,4 @@
-<img src="https://media4.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=790b7611eb30c10f4431c97e426154153e938d7dbd604eaf&rid=giphy.gif&ct=g" width="100%" height="350"/>
-
+<img src="https://media0.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif?cid=ecf05e47tu985n0hx7n420xmu6ti9fjevufo1b4k733mfmxv&rid=giphy.gif&ct=g" width="100%" height="450"/>
 
 <h2> :v: To whoever is receiving this message, my warm "Opa!" </h2>
 
@@ -38,3 +37,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venancio-guilherme&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venancio-guilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+     ![Snake animation](https://github.com/venancio-guilherme/venancio-guilherme/blob/output/github-contribution-grid-snake.svg)
