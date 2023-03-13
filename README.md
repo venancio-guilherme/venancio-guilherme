@@ -1,6 +1,6 @@
 <img src="https://media0.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif?cid=ecf05e47tu985n0hx7n420xmu6ti9fjevufo1b4k733mfmxv&rid=giphy.gif&ct=g" width="100%" height="450"/>
 
-<h2> :v: To whoever is receiving this message, my warm "Opa!" </h2>
+<h2> :v: To whoever is receiving this message, my warm Olá</h2>
 
 <h3> You can call me Guilherme. I'm a liutenant of brazilian Army and a enthusiastic for tecnology, besides I love the italian culture. </h3>
 
@@ -9,23 +9,24 @@
 
 
 <div>
-     <h2>Frontend</h2>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-    
+     <h2>Mobile</h2>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" width="50" height="50"/>
+                      
 </div>
  
 <div>
-    <h2> Frameworks </h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+    <h2>Deploy</h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" />
 </div>
-    <div>
-         <h2>Deploy</h2>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" />
-    </div>
+    
 <div>
      <h2>Editors</h2>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
+          
 </div>
+
 <div>
     <h2>Contacts</h2>
     <a href = "mailto:guilhermesousav2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
