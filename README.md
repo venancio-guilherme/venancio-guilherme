@@ -2,7 +2,7 @@
 
 <h2> :v: To whoever is receiving this message, my warm Olá</h2>
 
-<h3> You can call me Guilherme. I'm a liutenant of brazilian Army and a enthusiastic for tecnology, besides I love the italian culture. </h3>
+<h3> You can call me Guilherme. I'm a lieutenant of the Brazilian Army and enthusiastic about technology. I'm doing a degree in mobile app development. </h3>
 
 
 <h2>:man_technologist: Knowledges</h2>
